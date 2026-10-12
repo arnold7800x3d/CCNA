@@ -340,4 +340,3 @@ g. Save the configuration file to avoid loss if the switch is powered down.
 ```
 copy run start
 ```
-Close Configuration Window for S2
