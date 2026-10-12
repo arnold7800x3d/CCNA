@@ -1049,8 +1049,8 @@ o. Record the interface status for the following interfaces.
 |Interface|S1 Status|S1 Protocol|S2 Status|S2 Protocol|
 |:--------|:--------|:----------|:--------|:----------|
 |F0/1|up|up|up|up|
-|F0/6|up|up|up|up|
-|F0/18|up|up|up|up|
+|F0/6|up|up|down|down|
+|F0/18|down|down|up|up|
 |VLAN 1|up|up|up|up|
 
 ## Reflection Question
